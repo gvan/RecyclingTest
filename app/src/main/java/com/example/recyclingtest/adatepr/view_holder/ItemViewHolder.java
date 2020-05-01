@@ -41,6 +41,10 @@ public class ItemViewHolder extends RecyclerView.ViewHolder {
 
             itemView.addView(bav);
         }
+//        else {
+//            BannerAdView bav = (BannerAdView) itemView.getChildAt(0);
+//            bav.loadAd();
+//        }
 
     }
 
